@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "高嶺の花子さん",
+  "base_artist": "back number",
+  "createdAt": "2025-12-02T10:41:20.706397Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_高嶺の花子さん_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_高嶺の花子さん_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "高嶺の花子さん (full)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_高嶺の花子さん_(full)_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "高嶺の花子さん - Takaneno Hanakosan",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_高嶺の花子さん_-_Takaneno_Hanakosan_back_number.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/05_高嶺の花子さん_back_number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/06_高嶺の花子さん_back_number.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/07_高嶺の花子さん_back_number.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "back number - 高嶺の花子さん (full)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/08_back_number_-_高嶺の花子さん_(full)_back_number.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "高嶺の花子さん (full)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/09_高嶺の花子さん_(full)_back_number.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "高嶺の花子さん (instrumental)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/10_高嶺の花子さん_(instrumental)_back_number.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/11_高嶺の花子さん_back_number.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/12_高嶺の花子さん_back_number.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "back number - 高嶺の花子さん (full)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/13_back_number_-_高嶺の花子さん_(full)_back_number.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/14_高嶺の花子さん_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_高嶺の花子さん_back_number.txt"
+    }
+  ]
+}
